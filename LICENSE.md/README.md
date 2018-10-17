@@ -154,7 +154,7 @@ To have a common OS platform for CSO/NSC solution is recommendation to use Ubunt
 | 23     | Contrail Analytics server        | csp-contrailanalytics-3   | 16/64G
 
 
-#Small Deployment 
+# Small Deployment 
     * 1 Physical servers, 7 Virtual Machines including Space, Virtual Route Reflector are required for deploying all the services in central and regional regions
     * 7 IPs are required for this installation.
 
